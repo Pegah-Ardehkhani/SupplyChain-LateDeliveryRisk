@@ -18,6 +18,6 @@ Key components of the project:
 * **Data Preprocessing:** Handle missing values, encode categorical variables, and extract features from dates.
 * **Predictive Modeling:** Implemented multiple classifiers including Random Forest, Logistic Regression, XGBoost, Decision Tree, and K-Nearest Neighbors to predict `Late_delivery_risk`.
 * **Evaluation:** Used metrics such as accuracy, recall, F1-score, confusion matrix, and ROC-AUC for performance comparison.
-* **Feature Importance & Explainability:** Analyzed feature contributions using Random Forest importance and counterfactual explanations with DiCE.
+* **Feature Importance & Explainability:** Analyzed feature contributions using Random Forest importance, LIME, SHAP, and counterfactual explanations with DiCE.
 
 This project provides a complete pipeline for **risk prediction in supply chain management**, helping stakeholders identify potential late deliveries and optimize operations.
